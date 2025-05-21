@@ -11,7 +11,7 @@ Co-Design methodology is used to modify mechanics to get better performence of t
 
 ### Key Innovations:
 - Synergistic optimization of finger geometry and control policies for functional grasping.
-- Emphasis on underactuated systems (6–12 DoF) instead of costly fully actuated hands (16–20 DoF), reducing weight, size, and cost.
+- Emphasis on underactuated systems (~6 DoF) instead of costly fully actuated hands (~16 DoF), reducing weight, size, and cost.
 - AI algorithms to jointly optimize hardware and software for diverse industrial tasks.
 
 ### Outcome
@@ -24,10 +24,10 @@ The currently active core developers are:
 
 -   [Yefim Osipov-Sigachev](https://github.com/Huowl) (ITMO University) works on [Isaac Grasp Env](https://github.com/BE2R-Lab-RND-AI-Grasping/IsaacGraspingEnv) a reinforcement learning environment for functional grasping
 -   [Kirill Zharkov](https://github.com/ZharkovKirill) (ITMO University) works on [iCEM MPC Expert](https://github.com/BE2R-Lab-RND-AI-Grasping/cem_mpc_expert), a framework for robotic grasping using iterative Cross-Entropy Method (iCEM) with Model Predictive Control (MPC)
--   [Mikhail Chaikovskii](https://github.com/MikhailChaikovskii) (ITMO University) works on [Semantic_Object_Segmentation_for_Affordance_Labeling](https://github.com/BE2R-Lab-RND-AI-Grasping/Semantic_Object_Segmentation_for_Affordance_Labeling) needed to generate object datasets with affordances 
--   [Olga Borisova](https://github.com/BorisovaOlga) (ITMO University): responsible on grasps samples using [DexGraspNet](https://github.com/BE2R-Lab-RND-AI-Grasping/DexGraspNet/tree/docs/setup-instructions)
+-   [Mikhail Chaikovskii](https://github.com/MikhailChaikovskii) (ITMO University) works on [AffordanceLabeling](https://github.com/BE2R-Lab-RND-AI-Grasping/Semantic_Object_Segmentation_for_Affordance_Labeling) needed to generate object datasets with affordances 
+-   [Olga Borisova](https://github.com/BorisovaOlga) (ITMO University): responsible on grasps samples using [DexGraspNet](https://github.com/BE2R-Lab-RND-AI-Grasping/DexGraspNet)
 -   [Egor Rakshin](https://github.com/RakshinEgor) (ITMO University): responsible on hands design and its models in [models_hub](https://github.com/BE2R-Lab-RND-AI-Grasping/hand_models_hub)
--   [Rahaf Alshaowa](https://github.com/RahafAlshaowa) (ITMO University) works of functional grasping in [gt_functional_pc
+-   [Rahaf Alshaowa](https://github.com/RahafAlshaowa) (ITMO University) works of functional grasping in [Functional Classification of Point Clouds
 ](https://github.com/BE2R-Lab-RND-AI-Grasping/gt_functional_pc)
 -   [Ivan Borisov](https://github.com/iiborisov) (ITMO University) is a scientific supervisor
 <!--
